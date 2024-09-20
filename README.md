@@ -17,5 +17,5 @@ To run the game locally, clone the repository and execute the `pong_game.py` fil
 
 ```bash
 git clone https://github.com/juzzkr/Pong_Arcade_Game.git
-cd Pong_Game_Python
+cd Pong_Arcade_Game
 python main.py
